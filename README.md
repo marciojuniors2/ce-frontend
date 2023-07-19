@@ -4,7 +4,7 @@
 Este é o frontEnd da aplicação que consome um sistema de vitrine de carros.
 
 ## Vídeo do Projeto em Funcionamento
-Assista ao vídeo [aqui]([link_para_o_vídeo](https://1drv.ms/v/s!Am1Zv2Sr8JVMgUVUbVi1tQ34kjul?e=QnnDVN)).
+Assista ao vídeo [aqui]([[link_para_o_vídeo](https://1drv.ms/v/s!Am1Zv2Sr8JVMgUVUbVi1tQ34kjul?e=QnnDVN)]).
 
 ## Instalação
 Certifique-se de ter o Node.js e o Yarn instalados. Para configurar o projeto localmente, siga os passos abaixo:
