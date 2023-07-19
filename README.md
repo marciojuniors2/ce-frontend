@@ -1,7 +1,7 @@
 # ce.frontend
 
 ## Descrição do Projeto
-Este é o frontEnd da aplicação que consome um sistema de vitrine de carros.
+O ce.frontend é a parte frontend da aplicação que consome um sistema de vitrine de carros.
 
 ## Vídeo do Projeto em Funcionamento
 Assista ao vídeo [aqui]([[link_para_o_vídeo](https://1drv.ms/v/s!Am1Zv2Sr8JVMgUVUbVi1tQ34kjul?e=QnnDVN)]).
