@@ -1,0 +1,31 @@
+:root.light {
+  --background-color: #ffffff;
+  --text-color: #000000;
+}
+
+:root.dark {
+  --background-color: #141414;
+  --text-color: #ffffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  /* background: var(--background-color);
+  color: var(--text-color); */
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 5px;
+  @media(max-width:600px) {
+    width: 0px;
+  }
+}
+::-webkit-scrollbar-thumb {
+  background: #4263EB;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-track{
+  background: #D3D3D3;
+}
